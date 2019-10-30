@@ -56,4 +56,4 @@ def wc(nomFichier):
     return caracter, word, lign
 
 
-print(wc("wc1.txt"))
+print(wc("Zola.txt"))
