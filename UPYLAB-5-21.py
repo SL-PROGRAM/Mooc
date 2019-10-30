@@ -42,7 +42,6 @@ def liste_des_mots(nom):
                 lign = lign.replace(lign[i], " ")
 
         list += lign.split()
-    print(list)
 
     for word in list:
         word = word.lower()
